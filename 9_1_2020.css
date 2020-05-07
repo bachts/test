@@ -1,0 +1,47 @@
+/* #parent {
+    background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAJbd2gfkUhqRxk_iMKs4WtIAqCVorIa5VvAUdSGv8tlvC6l-QKQ&s);
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 900px;
+    width: 480px;
+    display: flex;
+    flex-flow: row;
+    justify-content: center;
+    align-items: center;
+    background-size: contain;
+}
+.child {
+    color: #3c7d91;
+    text-align: center;
+    justify-content: center;
+    height: 100px;
+    width: 100px;
+} */
+
+/* div {
+    width: 500px;
+    height: 135px;
+    background-image: url(https://thumbor.forbes.com/thumbor/30x40/https://blogs-images.forbes.com/erikakelton/files/2012/08/75px-Mitt_Romney_2007_profile_portrait2.jpg?width=960)
+}
+#div1 {
+    background-repeat: repeat-x ;
+}
+#div2 {
+    background-repeat: repeat-y ;
+}
+#div3 {
+    background-repeat: no-repeat ;
+    background-position-x: 50px;
+    background-position-y: 50px;
+
+} */
+
+div {
+    width: 800px;
+    height: 300px;
+    background-repeat: no-repeat;
+    background-image: url(https://pbs.twimg.com/profile_images/988272404915875840/lE7ZkrO-_400x400.jpg.)
+}
+#div1 {
+    background-size: contain;
+}

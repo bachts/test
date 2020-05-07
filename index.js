@@ -1,0 +1,12 @@
+let favorite = ["dota2","csgo","nttp"];
+favorite.push("still nttp");
+favorite.push("van la nttp");
+// let n = prompt("chon vi tri di");
+// favorite[0] = "game x";
+// favorite[favorite.length-1] = favorite[favorite.length-1].toUpperCase();
+// let last = favorite.length - 1;
+let index = prompt("Chon vi tri");
+favorite[index-1] = prompt(`Thay doi vi tri ${index}`);
+console.log(favorite);
+// console.log(favorite[favorite.length-1]);
+// console.log(favorite[n-1]);
